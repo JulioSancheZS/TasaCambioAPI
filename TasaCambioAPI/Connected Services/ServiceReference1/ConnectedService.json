@@ -1,0 +1,22 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://servicios.bcn.gob.ni/Tc_Servicio/ServicioTC.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.2.3}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.4.0}"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}

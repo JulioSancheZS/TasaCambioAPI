@@ -1,0 +1,6 @@
+@TasaCambioAPI_HostAddress = http://localhost:5077
+
+GET {{TasaCambioAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
